@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+.conteiner{
+    width: 400px;
+    height: 450px;
+    background-color: rgb(180, 204, 204);
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 7px 12px black;
+}
+.Form{
+    margin: 100px 30px;
+}
+.Form input{
+    display: block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+    padding-left: 50px;
+    box-shadow: 0 2px 8px black;
+}
+.conteiner .user{
+    position: absolute;
+    left: 42%;
+    top: -9%;
+    background: rgb(180, 204, 204);
+    border-radius: 42px;
+}
+.Form .icon-input{
+    font-size: 20px;
+    padding: 10px;
+    background-image: linear-gradient(to right, bisque, rgb(180, 204, 204));
+    position: relative;
+    top: -40;
+    border-radius: 5px 0 0 5px;
+}
+.Form .rigister{
+    display: block;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    background-image: linear-gradient(to right, rgb(180, 204, 204), bisque);
+    padding-left: 10px;
+    box-shadow: 0 2px 8px black;
+}
+.Form .icon-submit{
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    top: -40px;
+    left: 6px;
+    border-radius: 5px 0 0 5px;
+}
+.Form .rigister .textrigister{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
