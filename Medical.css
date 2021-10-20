@@ -682,8 +682,8 @@ a {
 
 .up{
     position: fixed;
-    bottom: 35px;
-    right: 35px;
+    bottom: 25px;
+    right: 25px;
     background-color: #00d9a691;
     border-radius: 50%;
     font-size: 1.5rem;
