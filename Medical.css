@@ -682,11 +682,11 @@ a {
 
 .up{
     position: fixed;
+    bottom: 35px;
+    right: 35px;
     background-color: #00d9a691;
     border-radius: 50%;
     font-size: 1.5rem;
-    bottom: 35px;
-    right: 35px;
 }
 .up a{
     padding: 1rem;
